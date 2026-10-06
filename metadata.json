@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate 2D Racing",
+  "description": "A complete, high-speed top-down 2D arcade car racing game with career mode, garage upgrades, drift physics, weather effects, and AI opponents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
